@@ -1,4 +1,4 @@
-name: lstm-demo
+name: tcn-demo
 channels:
   - defaults
 dependencies:
